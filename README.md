@@ -15,12 +15,12 @@ python_coinGecko_assignment
 
 PyPI
 
-```html
+```python
 pip install pycoingecko
 ``` 
 or from source
 
-```html 
+```python
 git clone https://github.com/man-c/pycoingecko.git
 cd pycoingecko
 python3 setup.py install
@@ -28,16 +28,16 @@ python3 setup.py install
 
 ## Usage
 
-```html
+```python
 from pycoingecko import CoinGeckoAPI
 cg = CoinGeckoAPI()
 ```
 
 ## Examples
-###Enter count:3
-####1- id: bitcoin
-####2- id: ethereum
-####3- id: cardano
+Enter count:3
+1- id: bitcoin
+2- id: ethereum
+3- id: cardano
 
 ## License
 
