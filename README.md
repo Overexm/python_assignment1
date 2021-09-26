@@ -32,7 +32,7 @@ python3 setup.py install
 
 ```python
 from pycoingecko import CoinGeckoAPI
-cg = CoinGeckoAPI()
+coinG = CoinGeckoAPI()
 ```
 [Back To The Top](#python_assignment1)
 ## Examples
