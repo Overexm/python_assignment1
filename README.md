@@ -38,9 +38,14 @@ cg = CoinGeckoAPI()
 ## Examples
 ```html
 Enter count:3
-1- id: bitcoin
-2- id: ethereum
-3- id: cardano
+1- id: bitcoin and other info
+2- id: ethereum and other info
+3- id: cardano and other info
+```
+
+```html
+For instance: bitcoin
+{'id': 'bitcoin', 'symbol': 'btc', 'name': 'Bitcoin', 'image': 'https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579', 'current_price': 43163, 'market_cap': 825497257596, 'market_cap_rank': 1, 'fully_diluted_valuation': 920793657108, 'total_volume': 32383861477, 'high_24h': 44229, 'low_24h': 40890, 'price_change_24h': 638.9, 'price_change_percentage_24h': 1.50243, 'market_cap_change_24h': 17448364644, 'market_cap_change_percentage_24h': 2.15932, 'circulating_supply': 18826631.0, 'total_supply': 21000000.0, 'max_supply': 21000000.0, 'ath': 64805, 'ath_change_percentage': -33.12828, 'ath_date': '2021-04-14T11:54:46.763Z', 'atl': 67.81, 'atl_change_percentage': 63808.97317, 'atl_date': '2013-07-06T00:00:00.000Z', 'roi': None, 'last_updated': '2021-09-26T11:35:54.041Z'}
 ```
 [Back To The Top](#python_assignment1)
 
