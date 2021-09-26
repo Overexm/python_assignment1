@@ -4,10 +4,10 @@
 python_coinGecko_assignment
 
 ### Table of Contents
-- [Installation][#installation]
-- [Usage][#usage]
-- [Examples][#examples]
-- [License][#lisense]
+- [Installation](#installation)
+- [Usage](#usage)
+- [Examples](#examples)
+- [License](#lisense)
 
 ---
 
@@ -26,6 +26,8 @@ cd pycoingecko
 python3 setup.py install
 ```
 
+[Back To The Top](#project-name)
+---
 ## Usage
 
 ```python
