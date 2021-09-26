@@ -34,10 +34,10 @@ cg = CoinGeckoAPI()
 ```
 
 ## Examples
-enter count:3
-1- id: bitcoin
-2- id: ethereum
-3- id: cardano
+###Enter count:3
+####1- id: bitcoin
+####2- id: ethereum
+####3- id: cardano
 
 ## License
 
