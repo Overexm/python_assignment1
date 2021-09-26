@@ -27,7 +27,7 @@ python3 setup.py install
 ```
 
 [Back To The Top](#project-name)
----
+
 ## Usage
 
 ```python
